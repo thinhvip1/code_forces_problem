@@ -2,7 +2,8 @@
 #include <algorithm>
 using namespace std;
 #define max_n 300001
-#define IOS ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+#define IOS ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+#define endl "\n"
 
 int a[max_n];
 int query[max_n];
